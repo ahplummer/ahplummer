@@ -16,7 +16,7 @@ Languages & Frameworks     Cloud & Infrastructure     Tools & Platforms
 • JavaScript/Node.js      • AWS                    • Git
 • Python                  • Azure                  • Docker
 • Java                    • Kubernetes             • CI/CD
-• TypeScript             • Cloud Native           • DevOps
+• TypeScript              • Cloud Native           • DevOps
 ```
 
 ### 🌱 Current Focus
