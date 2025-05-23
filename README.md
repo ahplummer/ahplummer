@@ -22,10 +22,13 @@ Languages & Frameworks     Cloud & Infrastructure     Tools & Platforms
 ### 🌱 Current Focus
 I'm currently exploring and working on exciting projects in cloud-native technologies and modern application architectures. 
 
+I have a Consultancy that I do work with to help out companies with their techical solutions, it's [73′](https://73prime.io).
+
 ### 📫 How to Reach Me
 - [Webpage](https://ahplummer.com)
+- [73′](https://73prime.io) (My consultancy)
+- [73′ Gitlab](https://gitlab.com/73prime)
 - [LinkedIn](https://www.linkedin.com/in/ahplummer/)
-- [GitHub](https://github.com/ahplummer)
 - [Twitter](https://twitter.com/ahplummer)
 - [Nostr](https://njump.me/npub1vyxdvsqp06ujglfvneew4kyvv2yr8xk9tk52jmrea7eucrk5dj5qprdegr)
 
